@@ -22,6 +22,29 @@ public class LoopExample {
 
 	    System.out.println("최종 i값은" + i + "입니다.");
 	    
+	    
+	    // while (
+	    // while (조건식) {
+	    //  참이면 실행
+	    // }
+	    	    
+	    int x = 10;
+	    while ( ++x < 20) {
+	    	System.out.println(x);
+	    }
+	    
+	    // do while
+	    // do {
+	    //
+	    // } while(조건식);
+	    
+	    do {
+	    	System.out.println(x);
+	    } while(x++<20);
+	    
+	    
+	    
+	    
 	}
 
 }
