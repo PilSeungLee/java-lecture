@@ -1,5 +1,5 @@
 
-//상속과 오버라이딩, 오버로딩
+//상속과 오버라이딩
 public class Application4 {
 
 	public static void main(String[] args) {
